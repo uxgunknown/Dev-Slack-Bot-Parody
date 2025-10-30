@@ -1,0 +1,2 @@
+# Planning
+Implement integration tests for the service worker caching
